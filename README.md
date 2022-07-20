@@ -12,7 +12,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
 
 <p align="center">
-I'm currently live in Czech Republic <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/220px-Flag_of_the_Czech_Republic.svg.png" alt="CZ" width="20" height="15"/> and work as System Engineering Supervisor. Programming & technology is my job, hobby and live. During my carrer I programm in multiple languages. Few years ago i started with Python and totaly fall in love. Currently learning Swift and iOS development.
+I'm currently live in Czech Republic <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/220px-Flag_of_the_Czech_Republic.svg.png" alt="CZ" width="20" height="15"/> and work as System Engineering Supervisor. Programming & technology is my job, hobby and live. During my carrer I programm in multiple languages. Few years ago i started with Python and totaly fall in love.
 
 If you want to know more about me visit this <a href="https://prace.foxconn.cz/content/Lide-RobertDurica/" target="_blank"> link</a> 
 </p>
