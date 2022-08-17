@@ -22,7 +22,3 @@ If you want to know more about me visit this <a href="https://prace.foxconn.cz/c
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/robert.durica.3/)](https://www.facebook.com/robert.durica.3/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdurica@gmail.com)](mailto:rdurica@gmail.com)
 </div>
- 
- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdurica&show_icons=true&theme=dark&title_color=ffffff&locale=en&layout=compact" alt="rdurica" />
- </div>
