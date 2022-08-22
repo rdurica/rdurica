@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Robert</h1>
+<img src="https://user-images.githubusercontent.com/16089770/186026949-bdc2bf59-8930-44f6-9055-63ea47e512e8.png" style="max-width: 100%; display: inline-block;">
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
