@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/16089770/186026949-bdc2bf59-8930-44f6-9055-63ea47e512e8.png" style="max-width: 100%; display: inline-block;">
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> 
 <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -12,7 +11,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
 
 <p align="center">
-I'm currently live in Czech Republic <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/220px-Flag_of_the_Czech_Republic.svg.png" alt="CZ" width="20" height="15"/> and work as System Engineering Supervisor. Programming & technology is my job, hobby and live. During my carrer I programm in multiple languages. Few years ago i started with Python and totaly fall in love.
+I'm a Systems Engineering Supervisor with a passion for programming and technology. I have over 5 years of experience in the field and have had the opportunity to work with a variety of programming languages including Python and PHP which I both enjoy. I specialize in automation projects and solutions, and always strive to deliver high quality, stable and efficient software. In my free time, I enjoy continuing to learn and expand my knowledge in the field, as well as experimenting with new technologies. Feel free to check out my GitHub repository for a look at some of my projects and work.
 
 If you want to know more about me visit this <a href="https://prace.foxconn.cz/content/Lide-RobertDurica/" target="_blank"> link</a> 
 </p>
