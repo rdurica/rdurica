@@ -1,19 +1,23 @@
 <img src="https://user-images.githubusercontent.com/16089770/186026949-bdc2bf59-8930-44f6-9055-63ea47e512e8.png" style="max-width: 100%; display: inline-block;">
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="30" height="30"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+
+<a href="https://www.swift.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30"/></a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="30" height="30"/></a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
 
 <p align="center">
-I'm a Systems Engineering Supervisor with a passion for programming and technology. I have over 5 years of experience in the field and have had the opportunity to work with a variety of programming languages including Python and PHP which I both enjoy. I specialize in automation projects and solutions, and always strive to deliver high quality, stable and efficient software. In my free time, I enjoy continuing to learn and expand my knowledge in the field, as well as experimenting with new technologies. Feel free to check out my GitHub repository for a look at some of my projects and work.
+👋 Hey, I'm Robert, a full-time PHP backend developer with a rich background in Systems Engineering. With over 5 years of experience, I've been immersed in the world of backend development, specializing in PHP and Python.
 
-If you want to know more about me visit this <a href="https://prace.foxconn.cz/content/Lide-RobertDurica/" target="_blank"> link</a> 
+💻 In my day-to-day, I focus on:
+   - Designing and implementing efficient and scalable PHP applications.
+   - Collaborating with cross-functional teams to deliver high-quality software solutions.
+   - Solving complex problems and optimizing backend processes for performance.
+
+I'm passionate about crafting reliable and effective solutions to real-world challenges. My commitment to best practices ensures that the systems I build are robust and stand the test of time. Outside of work, I'm dedicated to continuous learning, staying up-to-date with the latest trends in backend development. 
+
+📫 Let's connect! Whether it's discussing the latest tech trends or exploring potential collaborations, feel free to reach out. I'm always eager to connect with fellow developers and tech enthusiasts.
 </p>
 <div align="center">
 
