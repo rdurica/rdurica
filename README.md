@@ -1,27 +1,55 @@
-<img src="https://user-images.githubusercontent.com/16089770/186026949-bdc2bf59-8930-44f6-9055-63ea47e512e8.png" style="max-width: 100%; display: inline-block;">
+# Robert Durica | Backend Engineer
 
+[Website](https://robbyte.net) | [LinkedIn](https://linkedin.com/in/robert-durica) | [Email](mailto:r.durica@gmail.com)
 
-<a href="https://www.swift.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="30" height="30"/></a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="30" height="30"/></a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+---
 
-<p align="center">
-👋 Hey, I'm Robert, a full-time PHP backend developer with a rich background in Systems Engineering. With over 5 years of experience, I've been immersed in the world of backend development, specializing in PHP and Python.
+Backend Engineer building scalable APIs and backend systems in production. Focused on clear architecture, performance, and reliable delivery. Full-time at Sportisimo.
 
-💻 In my day-to-day, I focus on:
-   - Designing and implementing efficient and scalable PHP applications.
-   - Collaborating with cross-functional teams to deliver high-quality software solutions.
-   - Solving complex problems and optimizing backend processes for performance.
+5+ years of experience. PHP, Symfony, Nette, PostgreSQL, Redis, Kafka, Docker, Kubernetes.
 
-I'm passionate about crafting reliable and effective solutions to real-world challenges. My commitment to best practices ensures that the systems I build are robust and stand the test of time. Outside of work, I'm dedicated to continuous learning, staying up-to-date with the latest trends in backend development. 
+Interest in AI-augmented development and agentic workflows.
 
-📫 Let's connect! Whether it's discussing the latest tech trends or exploring potential collaborations, feel free to reach out. I'm always eager to connect with fellow developers and tech enthusiasts.
-</p>
-<div align="center">
+---
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-durica/)](https://www.linkedin.com/in/robert-durica/)
-  [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/robert.durica.3/)](https://www.facebook.com/robert.durica.3/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rdurica@gmail.com)](mailto:rdurica@gmail.com)
-</div>
+### Stack
+
+**Languages & Frameworks**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Nette](https://img.shields.io/badge/Nette-3487D4?style=flat-square&logo=nette&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+**Databases & Cache**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-2E5E82?style=flat-square&logo=phpstan&logoColor=white)
+
+### What I Do
+
+- Building and maintaining scalable APIs and microservices
+- Performance-focused database design and query optimization
+- CI/CD pipelines with automated testing and static analysis
+- Integrating AI tooling into development workflows
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [PHP Starter Kit](https://github.com/rdurica/php_starter_kit) | Docker + NGINX + PHP-FPM dev environment with K8s support | Docker, NGINX, K8s |
+| [Chronox](https://github.com/rdurica/chronox-backend) | Time tracking and task management API | Symfony, API Platform, MariaDB |
+| [Salt Cave](https://github.com/rdurica/oaza) | Commercial booking system with CMS | Nette, PHP, Docker |
+
+### AI Tooling
+
+AI-augmented development and agentic workflows
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdurica&hide=issues&theme=dark)
