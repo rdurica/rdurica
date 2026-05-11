@@ -1,6 +1,6 @@
 # Robert Durica | Backend Engineer
 
-[Website](https://robbyte.net) | [LinkedIn](https://linkedin.com/in/robert-durica) | [Email](mailto:r.durica@gmail.com)
+[LinkedIn](https://linkedin.com/in/robert-durica) | [Email](mailto:r.durica@gmail.com)
 
 ---
 
